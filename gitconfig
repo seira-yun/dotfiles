@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = discoverdeepseira@gmail.com
+	name = Seira Yun
