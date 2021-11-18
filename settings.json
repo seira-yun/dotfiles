@@ -79,5 +79,13 @@
         "rubocop": true
     },
     "ruby.intellisense": "rubyLocate",
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "editor.accessibilitySupport": "off",
+    "files.associations": {
+      ".htaccess": "html"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 1,
+    "liveServer.settings.donotShowInfoMsg": true
 }
